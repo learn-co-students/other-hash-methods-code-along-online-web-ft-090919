@@ -9,5 +9,5 @@ require 'pry'
 # }
 
 def get_the_min(groceries)
-  #code your solution here!
+  p neo = groceries.values[1].sort[0]
 end
